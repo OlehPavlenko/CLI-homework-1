@@ -1,0 +1,27 @@
+{
+  "name": "cli-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehPavlenko/CLI-homework-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehPavlenko/CLI-homework-1/issues"
+  },
+  "homepage": "https://github.com/OlehPavlenko/CLI-homework-1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0",
+    "yargs": "^17.6.0"
+  }
+}
